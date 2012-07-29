@@ -20,11 +20,11 @@
 		80D8373415C4E4C80028D0E3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		80D8373615C4E4C80028D0E3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		80D8373815C4E4C80028D0E3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		80D8373C15C4E4C80028D0E3 /* dummy-Info.plist */ = {isa = PBXFileReference; path = "dummy-Info.plist"; sourceTree = "<group>"; };
+		80D8373C15C4E4C80028D0E3 /* dummy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "dummy-Info.plist"; sourceTree = "<group>"; };
 		80D8373E15C4E4C80028D0E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		80D8374015C4E4C80028D0E3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		80D8374215C4E4C80028D0E3 /* dummy-Prefix.pch */ = {isa = PBXFileReference; path = "dummy-Prefix.pch"; sourceTree = "<group>"; };
-		80D8374315C4E4C80028D0E3 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		80D8374215C4E4C80028D0E3 /* dummy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "dummy-Prefix.pch"; sourceTree = "<group>"; };
+		80D8374315C4E4C80028D0E3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		80D8374415C4E4C80028D0E3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
